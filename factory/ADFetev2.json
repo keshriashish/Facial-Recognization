@@ -1,0 +1,9 @@
+{
+	"name": "ADFetev2",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6bf2eaab-1c0c-4b27-ac42-cc2790f22d24",
+		"tenantId": "59265fbe-ad05-42e9-9bf9-993f4dc4366b"
+	}
+}
